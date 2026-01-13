@@ -1,4 +1,15 @@
+<<<<<<< HEAD
 ﻿backend/venv/
 __pycache__/
 *.pyc
+=======
+# Python virtual environment
+backend/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables
+>>>>>>> 7b68b6a1672b66f7fe1d26f159d012189ad82774
 .env
